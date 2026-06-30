@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shananu/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/shananu/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
