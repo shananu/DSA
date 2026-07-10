@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shananu/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shananu/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shananu/DSA/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shananu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
