@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shananu/DSA/tree/master/0239-sliding-window-maximum) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/shananu/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
