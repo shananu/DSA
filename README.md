@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shananu/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shananu/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Design
 |  |
 | ------- |
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
