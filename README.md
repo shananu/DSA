@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shananu/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shananu/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0686-repeated-string-match](https://github.com/shananu/DSA/tree/master/0686-repeated-string-match) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shananu/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shananu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
