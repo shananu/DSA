@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shananu/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0686-repeated-string-match](https://github.com/shananu/DSA/tree/master/0686-repeated-string-match) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shananu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/shananu/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
