@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shananu/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shananu/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shananu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shananu/DSA/tree/master/0239-sliding-window-maximum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -188,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 ## Recursion
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
