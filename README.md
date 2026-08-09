@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shananu/DSA/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shananu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/shananu/DSA/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shananu/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/shananu/DSA/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shananu/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -221,8 +224,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
