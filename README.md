@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shananu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shananu/DSA/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shananu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shananu/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Sliding Window
 |  |
 | ------- |
