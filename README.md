@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/shananu/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/shananu/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/shananu/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/shananu/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/shananu/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/shananu/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
