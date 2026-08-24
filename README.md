@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shananu/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shananu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shananu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/shananu/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/shananu/DSA/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/shananu/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/shananu/DSA/tree/master/0097-interleaving-string) |
+| [0119-pascals-triangle-ii](https://github.com/shananu/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/shananu/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shananu/DSA/tree/master/0730-count-different-palindromic-subsequences) |
