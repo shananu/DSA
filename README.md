@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shananu/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shananu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shananu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shananu/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shananu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shananu/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
