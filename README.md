@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shananu/DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/shananu/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/shananu/DSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/shananu/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shananu/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/shananu/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/shananu/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shananu/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/shananu/DSA/tree/master/0097-interleaving-string) |
 | [0224-basic-calculator](https://github.com/shananu/DSA/tree/master/0224-basic-calculator) |
