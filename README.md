@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shananu/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shananu/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/shananu/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shananu/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shananu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shananu/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shananu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/shananu/DSA/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shananu/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shananu/DSA/tree/master/0383-ransom-note) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
