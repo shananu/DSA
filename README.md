@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shananu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shananu/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shananu/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shananu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shananu/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shananu/DSA/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shananu/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
