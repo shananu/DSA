@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shananu/DSA/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/shananu/DSA/tree/master/0052-n-queens-ii) |
 ## Array
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shananu/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/shananu/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/shananu/DSA/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/shananu/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shananu/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/shananu/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shananu/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shananu/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shananu/DSA/tree/master/0072-edit-distance) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shananu/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shananu/DSA/tree/master/0678-valid-parenthesis-string) |
 ## DP on Trees
 |  |
