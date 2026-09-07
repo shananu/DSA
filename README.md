@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/shananu/DSA/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/shananu/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shananu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/shananu/DSA/tree/master/0686-repeated-string-match) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shananu/DSA/tree/master/0730-count-different-palindromic-subsequences) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shananu/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1927-sum-game](https://github.com/shananu/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shananu/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shananu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shananu/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shananu/DSA/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/shananu/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shananu/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shananu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/shananu/DSA/tree/master/1927-sum-game) |
 ## Binary Search Tree
 |  |
 | ------- |
