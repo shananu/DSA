@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/shananu/DSA/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/shananu/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/shananu/DSA/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shananu/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shananu/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/shananu/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
