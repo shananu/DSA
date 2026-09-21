@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shananu/DSA/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/shananu/DSA/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/shananu/DSA/tree/master/0089-gray-code) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shananu/DSA/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/shananu/DSA/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/shananu/DSA/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/shananu/DSA/tree/master/0836-rectangle-overlap) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/shananu/DSA/tree/master/0089-gray-code) |
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shananu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shananu/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
