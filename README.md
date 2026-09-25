@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shananu/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/shananu/DSA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shananu/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shananu/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shananu/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shananu/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/shananu/DSA/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/shananu/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shananu/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shananu/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/shananu/DSA/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/shananu/DSA/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/shananu/DSA/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/shananu/DSA/tree/master/0383-ransom-note) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shananu/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shananu/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shananu/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
