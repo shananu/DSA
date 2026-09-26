@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/shananu/DSA/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/shananu/DSA/tree/master/0735-asteroid-collision) |
+| [0827-making-a-large-island](https://github.com/shananu/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/shananu/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/shananu/DSA/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/shananu/DSA/tree/master/1140-stone-game-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shananu/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shananu/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0827-making-a-large-island](https://github.com/shananu/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/shananu/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shananu/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shananu/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shananu/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shananu/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0827-making-a-large-island](https://github.com/shananu/DSA/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shananu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -225,12 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shananu/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shananu/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shananu/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0827-making-a-large-island](https://github.com/shananu/DSA/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shananu/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shananu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/shananu/DSA/tree/master/0827-making-a-large-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/shananu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Bucket Sort
 |  |
