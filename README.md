@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shananu/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shananu/DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/shananu/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/shananu/DSA/tree/master/0224-basic-calculator) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shananu/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shananu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shananu/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/shananu/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shananu/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shananu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shananu/DSA/tree/master/0075-sort-colors) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shananu/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shananu/DSA/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/shananu/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/shananu/DSA/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/shananu/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shananu/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shananu/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shananu/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shananu/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shananu/DSA/tree/master/0075-sort-colors) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shananu/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/shananu/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Simulation
 |  |
