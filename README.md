@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shananu/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shananu/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
 ## Queue
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shananu/DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shananu/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/shananu/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shananu/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shananu/DSA/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/shananu/DSA/tree/master/3731-find-missing-elements) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shananu/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shananu/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shananu/DSA/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shananu/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
@@ -448,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shananu/DSA/tree/master/0127-word-ladder) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
