@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shananu/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/shananu/DSA/tree/master/0355-design-twitter) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/shananu/DSA/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shananu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shananu/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/shananu/DSA/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shananu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shananu/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shananu/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shananu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shananu/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/shananu/DSA/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shananu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shananu/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shananu/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
