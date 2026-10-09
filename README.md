@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shananu/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shananu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shananu/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shananu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/shananu/DSA/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shananu/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shananu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/shananu/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shananu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shananu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shananu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/shananu/DSA/tree/master/3731-find-missing-elements) |
 ## Quickselect
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shananu/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shananu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shananu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shananu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shananu/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Enumeration
 |  |
